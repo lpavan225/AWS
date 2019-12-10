@@ -1,6 +1,6 @@
 # AWS
 upgrade the AWS Lambda Runtime.
-Provide the below Env varibales to the lambda 
+Provide the below Env varibales to the lambda : 
   from_run_time, 
   to_run_time,
   ACCOUNT_NAME,
